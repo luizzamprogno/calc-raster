@@ -1,6 +1,6 @@
 import os
 
-diretorio = 'D:/MyProjects/Canal_YOUTUBE/Geo/Videos/NDVI/'
+diretorio = 'D:/Seu/Diretorio/'
 
 b4Lista = []
 b8Lista = []
